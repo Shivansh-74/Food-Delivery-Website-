@@ -19,7 +19,7 @@ export default function Home() {
             </div>
             <div className='mt-6 text-gray-800'> 
             <p className='md:text-left text-center cursor-pointer'>"<span className='text-gray-950 '>Food is not rational. Food is culture, habit, craving, and identity </span>" order your favorite food now !!</p>
-            <div>
+            <div className='w-[100%] text-center'>
             <button className='text-white bg-red-500 px-3 py-2 rounded-[20px] my-5 hover:text-red-500 hover:bg-white hover:border border-red-500 duration-300'>Order Now</button>
 
             </div>
