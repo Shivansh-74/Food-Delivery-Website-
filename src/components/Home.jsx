@@ -87,7 +87,7 @@ export default function Home() {
                 {/**Lists */}
                 <div className='bg-gradient-to-t from-slate-50 to-orange-100 py-8'>
                 <div className="w-[100%] text-center flex  justify-center py-8">
-                <h1 className='text-3xl font-bold md:w-[30%] w-[100%] py-5'>Menu That Always Make You Fall In Love</h1>
+                <h1 className='text-2xl font-bold md:w-[30%] w-[100%] py-5'>Menu That Always Make You Fall In Love</h1>
                 </div>
                 <div className='w-[100%] flex flex-wrap justify-center gap-8'>
                 <Card img="https://img.freepik.com/free-photo/top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.jpg" name="Milano Pizza" price="Rs - 298" />
