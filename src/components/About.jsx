@@ -19,9 +19,9 @@ export default function About() {
   </div>
 
     </div> 
-    <div className="2 col-span-2 md:h-[500px] h-[350px]">
-    <img src="https://png.pngtree.com/background/20230618/original/pngtree-delicious-burger-with-many-ingredients-isolated-on-white-background-tasty-cheeseburger-picture-image_3713226.jpg" alt="" className='mix-blend-multiply md:w-[100%] md:h-[90%] h-[100%] w-[90%] md:m-4 p-4 mx-auto mt-[-20px] rounded'/>
-    </div>
+    // <div className="2 col-span-2 md:h-[500px] h-[350px]">
+    // <img src="https://png.pngtree.com/background/20230618/original/pngtree-delicious-burger-with-many-ingredients-isolated-on-white-background-tasty-cheeseburger-picture-image_3713226.jpg" alt="" className='mix-blend-multiply md:w-[100%] md:h-[90%] h-[100%] w-[90%] md:m-4 p-4 mx-auto mt-[-20px] rounded'/>
+    // </div>
     </div>
     </div>
   )
