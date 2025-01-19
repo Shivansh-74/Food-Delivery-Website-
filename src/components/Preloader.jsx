@@ -2,7 +2,8 @@ import styled from 'styled-components';
 import '../App.css'
 const Preloader = () => {
   return (
-    <div className="loader_div">
+    <div className="
+    ">
     <div className="loader">
     <div className="bar1"></div>
     <div className="bar2"></div>
